@@ -1,0 +1,31 @@
+body{
+  background-color: #00abad;
+  text-align: center;
+  margin-left: 1cm;
+  margin-right: 1cm;
+}
+
+.container{
+  line-height: 50px;
+  font-family: sans-serif;
+  margin-top: 4cm;
+}
+
+ul{
+  text-align: justify;
+  margin-top: 4cm;
+  margin-left: 10cm;
+  margin-right: 10cm;
+  font-size: 30px;
+  border-style: solid;
+  border-color: white;
+}
+
+h1{
+  background-color: white;
+  font-family: cursive;
+  }
+
+a:link {
+  text-decoration: none;
+}
